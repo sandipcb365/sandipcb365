@@ -15,9 +15,10 @@ I am Sandip Chakraborty, a highly motivated and confident educator with a Bachel
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sandipcb365&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ My Favorite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<br><h3>Before sleep, check your semicolon and colour palates for proper sleep.</h3>
+                                                            <b>  -Sandip Chakraborty</b><br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sandipcb365&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
